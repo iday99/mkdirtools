@@ -1,0 +1,2 @@
+[console_scripts]
+mkdirtools = mkdirtools.main:main

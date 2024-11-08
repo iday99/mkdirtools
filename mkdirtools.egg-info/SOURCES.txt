@@ -1,0 +1,12 @@
+README.md
+setup.py
+mkdirtools/__init__.py
+mkdirtools/main.py
+mkdirtools.egg-info/PKG-INFO
+mkdirtools.egg-info/SOURCES.txt
+mkdirtools.egg-info/dependency_links.txt
+mkdirtools.egg-info/entry_points.txt
+mkdirtools.egg-info/requires.txt
+mkdirtools.egg-info/top_level.txt
+mkdirtools/gui/__init__.py
+mkdirtools/gui/main_window.py
